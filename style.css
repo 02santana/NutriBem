@@ -10,6 +10,5 @@ color: white;
 .cabecalho-lista-item{
     display: inline-block;
     margin: 12px 16px;
-  margin-left: 1000px;
-  align-items: center;
+margin-block-start: 0%;
 }
