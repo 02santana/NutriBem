@@ -3,9 +3,12 @@
     padding: 0;
 }
 
-header {
+.cabecalho {
     background-color: black;
 color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -15,3 +18,4 @@ color: white;
 .comidas-imagem{
     width: 20%;
 }
+
