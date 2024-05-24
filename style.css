@@ -10,6 +10,7 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 }
+
 .cabecalho-lista-item{
     display: inline-block;
     margin: 12px 16px; 
@@ -19,7 +20,5 @@ align-items: center;
     width: 30%;
 }
 
-.cabecalho-lista-item{
-    display: inline-block;
-}
+
 
