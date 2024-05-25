@@ -26,5 +26,7 @@ align-items: center;
     width: 25%;
 }
 
-
+.introducao{
+    display: flex;
+}
 
