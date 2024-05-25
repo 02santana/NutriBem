@@ -24,8 +24,8 @@ font-family: "Inter", sans-serif;
 }
 
 .frutas1{
-    width: 30%;
-    margin: 80px;
+    width: 32%;
+    margin: 95px;
 }
 
 .introducao{
@@ -81,6 +81,24 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
 }
 
+.fotouva{
+    width: 200px;
+    margin: 40px ;
+}
+.textouva{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.fotoabacaxi{
+    width: 200px;
+    margin: 40px ;
+}
+.textoabacaxi{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
 .beneficios{
    display: flex;
     align-items: flex-start;
@@ -117,4 +135,29 @@ font-family: "Montserrat", sans-serif;
     flex-wrap: nowrap;
     justify-content: flex-start;
     align-items: center;
+}
+
+.divuva{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.divabacaxi{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.rodape{
+    background-color: #407132;
+    text-align: right;
+}
+.instagram{
+    height: 60px;
+    padding: 12px 0;
 }
