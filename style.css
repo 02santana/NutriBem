@@ -9,6 +9,7 @@ color: white;
 display: flex;
 justify-content: space-around;
 align-items: center;
+font-family: "Inter", sans-serif;
 }
 
 .cabecalho-lista-item{
@@ -46,5 +47,5 @@ padding: 24px 0 ;
     padding: 15px 0;
 }
 .texto-2{
-    font-size: 100%;
+    font-size: 120%;
 }
