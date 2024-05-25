@@ -19,7 +19,7 @@ font-family: "Inter", sans-serif;
 }
 
 .imagem1{
-    width: 30%;
+    width: 35%;
    
 }
 
@@ -156,7 +156,19 @@ font-family: "Montserrat", sans-serif;
 .rodape{
     background-color: #407132;
     text-align: right;
+    display: grid;
+    justify-content: end;
+    justify-items: end;
 }
+
+
+.email{
+    color:white ;
+    font: size 15px; ;
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+}
+
 .instagram{
     height: 60px;
     padding: 12px 0;
