@@ -25,6 +25,7 @@ font-family: "Inter", sans-serif;
 
 .frutas1{
     width: 30%;
+    margin: 80px;
 }
 
 .introducao{
@@ -47,7 +48,73 @@ padding: 24px 0 ;
 .texto-1{
     padding: 15px 0;
 }
+
 .texto-2{
     font-size: 120%;
+    font-family: "Montserrat", sans-serif;
 }
 
+.fotobanana{
+    width: 200px;
+    margin: 40px ;
+}
+.textobanana{
+font-size: 20px;
+font-family: "Montserrat", sans-serif;
+}
+
+.fotomaca{
+    width: 200px;
+    margin: 40px ;
+}
+.textomaca{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.fotomorango{
+    width: 200px;
+    margin: 40px ;
+}
+.textomorango{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.beneficios{
+   display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.texto-3{
+    padding: 45px;
+    font-size: 230%;
+    color: darkgreen;
+    font-family: "Inter", sans-serif;
+}
+
+.divbanana{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.divmaca{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.divmorango{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
